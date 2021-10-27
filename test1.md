@@ -4,7 +4,6 @@ Pouzit Spring na vytvorenie jednoduchej aplikacie(jar suboru) spustitelnej z ter
 
 1. Zadanie argumantu 'print'
 - vypise do terminalu obsah json suboru v nasledovnom formate:
-- 
 ```
 fruits
 .. apple
