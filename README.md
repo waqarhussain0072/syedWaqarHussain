@@ -1,7 +1,6 @@
 # test
 
-# test 1
-https://gitlab.cf.cz/pavel-musil/test/-/blob/master/test1.md
+Forkni si tento repozitar a vypracuj v tom fokru toto zadanie
 
-# test 2 (volitelný)
-https://gitlab.cf.cz/pavel-musil/test/-/blob/master/test2.md
+# fruits/vegetables
+https://github.com/utegsk/test/blob/main/test1.md
