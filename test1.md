@@ -7,25 +7,25 @@ Use Spring to create simple terminal app that works with JSON input (https://git
 ```
 fruits
 .. apple
-..... green
-..... red
+.... green
+.... red
 .. pear
-..... green
-..... light greeen
+.... green
+.... light greeen
 ..... dark green
 .. lemon
-..... yellow
-..... green
+.... yellow
+.... green
 vegetables
 .. carrot
-..... orange
-..... red
+.... orange
+.... red
 .. cabbage
-..... green
-..... dark green
+.... green
+.... dark green
 .. leek
-..... green
-..... light green
+.... green
+.... light green
 ```
 
 2. 'findMax'
