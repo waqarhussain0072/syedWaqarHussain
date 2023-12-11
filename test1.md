@@ -1,9 +1,9 @@
 # test 1
 
-Pouzit Spring na vytvorenie jednoduchej aplikacie(jar suboru) spustitelnej z terminalu, ktora pracuje so vstupnym JSON suborom (https://github.com/utegsk/test/blob/main/products.json) a na zaklade argumentu vykona jednu z dvoch moznosti.
+Use Spring to create simple terminal app that works with JSON input (https://github.com/utegsk/test/blob/main/products.json) and based on specified argument performs one of 2 operations
 
-1. Zadanie argumantu 'print'
-- vypise do terminalu obsah json suboru v nasledovnom formate:
+1. 'print'
+- print out JSON content in specified format.
 ```
 fruits
 .. apple
@@ -28,8 +28,10 @@ vegetables
 ..... light green
 ```
 
-2. Zadanie argumentu 'findMax'
-- najde a vypise zo vstupneho JSON suboru maximalnu hodnotu ovocia/zeleniny v tvare
-ovocie/zelenina -> druh -> farba: max hodnota. Spravny vysledok je 
+2. 'findMax'
+- finds and prints out max value from JSON file in format fruit/vegetable -> type -> color: max value
+Correct answer is:
 ```vegetables -> carrot -> red: 21```
+
+Bonuses: unit tests, recursion
   
